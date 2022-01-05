@@ -1,0 +1,11 @@
+{
+  "hyperparameters": {
+    "politics": {
+      "reward": 0.01,
+      "penalty": -0.1,
+      "tie": -0.01
+    },
+    "games": 20,
+    "max_moves_by_game": 40
+  }
+}
